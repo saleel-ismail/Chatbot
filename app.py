@@ -10,8 +10,8 @@ st.set_page_config(page_title="CHATBOT", layout="centered")
 st.title("CHATBOT")
 st.write("Upload multiple PDFs")
 
-MASTER_PASSWORD = "12345"
-API_KEY ="AIzaSyB0aMKYQ7nTVxl29BohGgSTqbYSy5hNYS4"
+MASTER_PASSWORD = "<set-password>"
+API_KEY ="<your-api-key>"
 
 password = st.text_input("Enter Access Password:", type="password")
 if password != MASTER_PASSWORD:
