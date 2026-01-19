@@ -100,5 +100,4 @@ pdf-chatbot
 ## 👤 Author
 
 Ismail Saleel D  
-Python Developer | AI & Cloud Enthusiast  
-MCA – Data Science & Big Data Analytics  
+ 
